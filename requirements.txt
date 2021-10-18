@@ -1,4 +1,4 @@
-anaconda-client==1.7.2
+anaconda-client
 anaconda-navigator==2.0.4
 appdirs==1.4.4
 applaunchservices==0.2.1
